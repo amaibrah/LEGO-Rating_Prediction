@@ -31,7 +31,7 @@ The dataset used in this project was found through Kaggle and includes data orig
 
 ## Build Models
 #### Build multiple models:
-* GridSearchCV was used to look for best hyperparameters with 5-fold corss validation
+* GridSearchCV was used to look for best hyperparameters for specific models
 * Apply best hyperparameters to Classification models and fit to training data
 * Predict using test set
 
